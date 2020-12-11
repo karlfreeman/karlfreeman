@@ -1,6 +1,6 @@
 # Hello :wave:
 
-I'm a product engineer based in London.
+I'm a software engineer based in London.
 I identify solutions to business problems through interactive design and development. I build scalable, tested products from start to finish, back to front: this is my passion.
 
 I enjoy programming day to day in Ruby/Rails, Elixir/Phoenix, Javascript/Ember and Elm. I would love to spend some time dabbling with Swift, Go and Rust.
