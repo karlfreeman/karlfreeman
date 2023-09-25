@@ -1,5 +1,3 @@
-# Hello
-
 I'm a software engineer based in London.
 I identify solutions to business problems through interactive design and development. I build scalable, tested products from start to finish, back to front: this is my passion.
 
