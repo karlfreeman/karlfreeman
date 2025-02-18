@@ -1,10 +1,4 @@
-I'm a software engineer based in London.
-I identify solutions to business problems through interactive design and development. I build scalable, tested products from start to finish, back to front: this is my passion.
-
-I enjoy programming day to day in Ruby/Rails, Elixir/Phoenix, Javascript/Ember and Elm. I would love to spend some time dabbling with Swift, Go and Rust.
-
-I've worked on problems ranging from scalable, non-blocking webscrapers to client-side analytics dashboards; Multi-platform, native MVPs to multi-region, multi-lingual training products.
+I'm a London-based CTO with a strong background in Ruby on Rails and a product-first mindset. I enjoy building products that people genuinely want to use and leading teams that ship great solutions. My approach is hands-on, concentrating on improving development processes, overcoming technical challenges, and ensuring teams remain efficient. I have experience across multiple startups, where I’ve been responsible for transforming concepts into practical, scalable products. Outside of work, I keep up to date with new technology and invest in companies I believe in.
 
 You can reach me on the following:
-
 [Twitter](https://twitter.com/karlfreeman) | [GitHub](https://github.com/karlfreeman) | [LinkedIn](https://uk.linkedin.com/in/karlfreeman) | [Email](karlfreeman@gmail.com)
