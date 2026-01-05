@@ -1,6 +1,6 @@
-I'm a London-based CTO with a strong background in Ruby on Rails and a product-first mindset. I enjoy building products that people genuinely want to use and leading teams that ship great solutions.
+I'm a London-based CTO specializing in Ruby on Rails with a product-first approach. I build products people want to use and lead teams that ship.
 
-My approach is hands-on, concentrating on improving development processes, overcoming technical challenges, and ensuring teams remain efficient. I have experience across multiple startups, where I’ve been responsible for transforming concepts into practical, scalable products.
+I split my time between hands-on development and team leadership. My focus is on improving how teams work and solving the technical challenges that matter. Across multiple startups, I've taken products from concept to scale.
 
 Outside of work, I keep up to date with new technology and invest in companies I believe in.
 
