@@ -5,4 +5,5 @@ I split my time between hands-on development and team leadership. My focus is on
 Outside of work, I keep up to date with new technology and invest in companies I believe in.
 
 You can reach me on the following:
+<br/>
 [Website](https://karlfreeman.co.uk) | [GitHub](https://github.com/karlfreeman) | [LinkedIn](https://uk.linkedin.com/in/karlfreeman) | [X](https://x.com/karlfreeman) | [Email](karlfreeman@gmail.com)
